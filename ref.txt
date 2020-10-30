@@ -1,0 +1,6 @@
+NAME			AUTHOR
+Harry Potter 		J.K. Rowling
+A song of ice and fire 	George R.R Martin
+Dune			Frank Herbert
+Ender's Game		Orson Scott Card
+The Time Machine 		H.G. Wells
